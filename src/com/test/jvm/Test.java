@@ -19,6 +19,6 @@ public class Test {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println(123465);
-		System.out.println("zhaopeng");
+		System.out.println("马宁");
 	}
 }
